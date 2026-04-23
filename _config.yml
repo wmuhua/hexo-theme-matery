@@ -131,9 +131,9 @@ logo: /medias/logo.png
 # 首页 banner 中的第二个按钮的配置，包括按钮的显示名称、font awesome图标和按钮的超链接.
 indexbtn:
   enable: true
-  name: Github
-  icon: fab fa-github-alt
-  url: https://github.com/wmuhua
+  name: JUEJIN
+  icon: fab fa-edit
+  url: https://juejin.cn/user/3368559359825448/posts
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
@@ -556,7 +556,7 @@ subtitle:
   typeSpeed: 100 # 打字速度
   backSpeed: 50 # 删除速度
   sub:
-    - 与代码交手这些年，你是否光彩依旧，生机盎然？
+    - 视图层已成过往，控制层是现在进行时，在有限的时间里多做点有意义的事
     # - Never really desperate, only the lost of the soul
 
 # 手机二级菜单.
