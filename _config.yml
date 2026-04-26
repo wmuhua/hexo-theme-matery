@@ -132,7 +132,7 @@ logo: /medias/logo.png
 indexbtn:
   enable: true
   name: JUEJIN
-  icon: fab fa-edit
+  icon: fas fa-edit
   url: https://juejin.cn/user/3368559359825448/posts
 
 # The configurations of the second line of home banner
