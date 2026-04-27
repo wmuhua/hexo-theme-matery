@@ -103,7 +103,8 @@ video:
   enable: true
   showTitle: true
   title: 精彩视频
-  url: https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/video/blog_01.mp4 # 必填
+  # url: https://cdn.jsdelivr.net/gh/wmuhua/cdn@main/video/blog_01.mp4 # 必填
+  url: /video/blog1.mp4 # 必填
   pic:
   thumbnails:
   height: # 如：400
