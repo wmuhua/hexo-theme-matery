@@ -247,10 +247,10 @@ mySkills:
   data:
     Vue:
       background: "linear-gradient(to right, #FF0066 0%, #FF00CC 100%)"
-      percent: 85%
+      percent: 90%
     JavaScript:
       background: "linear-gradient(to right, #9900FF 0%, #CC66FF 100%)"
-      percent: 85%
+      percent: 90%
     React:
       background: "linear-gradient(to right, #4CAF50 0%, #81C784 100%)"
       percent: 80%
@@ -259,10 +259,10 @@ mySkills:
       percent: 80%
     PLC:
       background: "linear-gradient(to right, #2196F3 0%, #42A5F5 100%)"
-      percent: 50%
+      percent: 30%
     Vite/Webpack:
       background: "linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)"
-      percent: 70%
+      percent: 80%
 
 # config gallery of my photos in about page.
 # If you don't want to display this `Gallery` content, you can deactivate or delete this configuration.
@@ -271,7 +271,7 @@ myGallery:
   enable: true
   data:
     - /medias/featureimages/22.jpg
-    - /medias/featureimages/25.jpg
+    - /medias/featureimages/24.jpg
     - /medias/featureimages/23.jpg
 
 # Whether to display post-calender in the `archive` page
