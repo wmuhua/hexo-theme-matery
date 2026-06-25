@@ -245,30 +245,30 @@ myProjects:
 mySkills:
   enable: true
   data:
-    Vue:
+    HTML/CSS:
       background: "linear-gradient(to right, #FF0066 0%, #FF00CC 100%)"
       percent: 90%
-    JavaScript:
+    JavaScript/TypeScript:
       background: "linear-gradient(to right, #9900FF 0%, #CC66FF 100%)"
       percent: 90%
-    React:
+    Vue/React:
       background: "linear-gradient(to right, #4CAF50 0%, #81C784 100%)"
-      percent: 80%
-    TypeScript:
+      percent: 90%
+    Vite/Webpack:
       background: "linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)"
       percent: 80%
-    PLC:
+    Echarts/Canvas:
       background: "linear-gradient(to right, #d100d4 0%, #ea80dd 100%)"
-      percent: 30%
-    Vite/Webpack:
-      background: "linear-gradient(to right, #d41d00 0%, #ea8080 100%)"
       percent: 80%
-    Vite/Webpack:
+    Java/NodeJS:
+      background: "linear-gradient(to right, #d41d00 0%, #ea8080 100%)"
+      percent: 70%
+    C#:
       background: "linear-gradient(to right, #2196F3 0%, #42A5F5 100%)"
       percent: 80%
-    Vite/Webpack:
+    PLC:
       background: "linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)"
-      percent: 80%
+      percent: 70%
 
 # config gallery of my photos in about page.
 # If you don't want to display this `Gallery` content, you can deactivate or delete this configuration.
