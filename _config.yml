@@ -265,7 +265,7 @@ mySkills:
       percent: 70%
     C#:
       background: "linear-gradient(to right, #2196F3 0%, #42A5F5 100%)"
-      percent: 80%
+      percent: 70%
     PLC:
       background: "linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)"
       percent: 70%
